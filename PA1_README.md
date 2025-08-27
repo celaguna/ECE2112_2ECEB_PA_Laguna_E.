@@ -20,7 +20,7 @@ Each section includes the **actual code with line-by-line explanations inside th
 1. [Alphabet Soup Problem](#alphabet-soup-problem)
 2. [Emoticon Soup Problem](#emoticon-soup-problem)
 3. [Unpacking List Problem](#unpacking-list-problem)
-4. [Programming Assingment 1 .ipynb file](#repository-link)
+4. [Programming Assingment 1 .ipynb file](https://github.com/celaguna/ECE2112_2ECEB_PA_Laguna_E./blob/main/PA1_LAGUNA.ipynb)
 
 ---
 
